@@ -1,2 +1,2 @@
 # attendance-tracking-system
-Attendance tracking system using fingerprint
+An attendance tracking system using fingerprint for students at my school. The fingerprint sensor I used is an Adafruit fingerprint sensor. 
